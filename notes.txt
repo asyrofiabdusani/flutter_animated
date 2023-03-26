@@ -1,0 +1,5 @@
+AnimatedContainer => membuat container berubah pada durasi tertentu
+AnimatedCrossfade => merubah secara animasi dari widget 1 ke widget 2
+animatedOpactiy => merubah opacity secara animasi
+animatedPosition => merubah position secara animasi
+sliver => mirip listView, tetapi terdapat widget sliverAppBar
